@@ -1,7 +1,7 @@
 const canvas = document.querySelector('#canvas')
 let currnetColor
 
-for (let i = 0; i < 800; i++) {
+for (let i = 0; i < 1914; i++) {
     const cell = document.createElement('div')
     cell.classList.add('cell')
 
@@ -13,7 +13,7 @@ canvas.appendChild(cell)
 }
 
 const colorPalette = document.querySelector('.color-palette')
-const colors = ['red', 'blue', 'yellow', 'green', 'orange', 'lightblue', 'purple', 'black']
+const colors = ['red', 'blue', 'yellow', 'green', 'orange', 'lightblue', 'purple', 'black', 'brown', 'gray',]
 const eraser = ['white']
 
 colors.forEach(color => {
