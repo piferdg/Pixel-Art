@@ -4,6 +4,7 @@ In this exercise, you'll create your own pixel art maker which will allow a user
 
 ![Example of Pixel Art Maker](screenshots/pixel-art-maker-alt.png)
 
+
 More specifically, your pixel art maker should allow a user to do the following.
 
 1. Start with a blank canvas of pixels.
